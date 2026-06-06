@@ -3,7 +3,7 @@ title: 黄庭经全文在线阅读
 createTime: 2025/10/07 14:56:10
 ---
 
-![地藏菩萨本愿经](/dzjbook.jpeg)
+![地藏菩萨本愿经](/htjbook.jpeg)
 
 <h3>地藏菩萨本愿经</h3>
 

@@ -53,7 +53,7 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: '/favicon.png',
-    name: 'dizangjing',
+    name: 'huangtingjing',
     description: '黄庭经',
     // circle: true,
     // location: '',
