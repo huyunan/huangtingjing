@@ -8,6 +8,5 @@ import { defineNavbarConfig } from 'vuepress-theme-plume'
 
 export default defineNavbarConfig([
   { text: '黄庭经全文', link: '/' },
-  { text: '黄庭经原文', link: '/notes/source/1.忉利天宫神通品第一.md', activeMatch: '^/source/' },
-  { text: '论语原文', link: '/notes/lunyu/1.学而篇第一.md', activeMatch: '^/lunyu/' },
+  { text: '黄庭经原文', link: '/notes/source/1.忉利天宫神通品第一.md', activeMatch: '^/source/' }
 ])
