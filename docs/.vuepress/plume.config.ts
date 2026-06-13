@@ -44,7 +44,7 @@ export default defineThemeConfig({
 
   /* 站点页脚 */
   footer: {
-    message: 'Copyright by <b>黄庭经</b> Power by <a target="_blank" href="https://github.com/huyunan">huyunan</a>',
+    message: '',
     copyright: '',
   },
 
